@@ -14,3 +14,8 @@ O relatório é fixo, ou seja, não possuímos partes pontuais.
 
 Temos um gráfico de Visitas por mês.  
 Precisa ser acrescentado o valor de visitas do mês do relatório.
+  
+**Visitas:** Público > Visão Geral
+
+### Slide 2:
+

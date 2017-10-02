@@ -2,9 +2,9 @@
 
 Objetivo: Esse arquivo tem por finalidade documentar onde estão os dados do relatório no GA e explica os dados que são contas.  
   
-Conta: 
-Propriedade: 
-Vista: 
+Conta: 01. | WHIRLPOOL | All Sites  
+Propriedade: KITCHEN AID | E-Commerce + Site Institucional (UA-44518086-3)  
+Vista: kitchenaid.com.br (90011251)  
   
 Temos arquivo com extração.  
   

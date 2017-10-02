@@ -19,3 +19,9 @@ Precisa ser acrescentado o valor de visitas do mês do relatório.
 
 ### Slide 2:
 
+Temos dois gráficos de Visitas por dispositivos móveis e Promessas por dispositivos móveis.  
+Precisa ser acrescentado o valor de desktop e mobile em cada tabela e atualizar os valores que ficam ao lado das tabelas.  
+  
+**Visitas:** Público > Dispositivos Móveis > Visão Geral  
+**Promessas:** Públicos > Dispositivos Móveis > Visão Geral  
+Mude a conversão para *Comércio Eeletrônico*.  

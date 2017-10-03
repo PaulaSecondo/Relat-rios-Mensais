@@ -28,8 +28,16 @@ GA para Vendas e Receita: Conversões > Comércio Eletrônico > Visão Geral
 ### Canais (comparativo com o ano anterior):
 
 Nesse slide temos dados de **Sessões**, **Vendas** e **Receita** por YTD.  
+
+O dado de Referência é visto de maneira diferente do que os demais.  
+GA para Referência: Aquisição > Todo o tráfego > Origem/Mídia  
+Coloque no filtro referral e veja o total dos dados  
+Coloque a conversão em *Comércio Eletrônico*.  
+  
+Para os outros Canais podemos olhar como:  
 GA: Aquisição > Todo o tráfego > Canais  
 Coloque a conversão em *Comércio Eletrônico*.  
+  
 Para o dado de Mídia, nós temos uma fórmula nesse slide que é **Mídia = Total -Orgânico -Direto -Referência -E-mail**  
 O **Total** da fórmula é o total que aparece em Canais.  
 
@@ -37,6 +45,7 @@ O **Total** da fórmula é o total que aparece em Canais.
 
 Nesse slide temos dados de **Investimento**, **Vendas** e **Receita**.  
 O valor de Outros é o canal que foi utilizado por Mídia e não inclui Adwords, Facebook Ads, Criteo ou CityAds.  
+Mas note que nesse slide não precisamos saber qual é o canal Outros. Basta pegar o valor de Mídia do slide anterior e subtrair os dados de Adwords, Facebook Ads, Criteo e CityAds.  
   
 GA para Adwords: Aquisição > Adwords > Contas  
 Olhe o total dos valores  
@@ -54,7 +63,11 @@ Para ver transações e receita coloque a conversão em *Comércio Eletrônico*.
   
 ### Canais (comparativo trimestre):
 
+Os dados de Canais são feitos da mesma maneira que Canais (comparativo com o ano anterior), a única diferença é que olhamos por cada mês e não por YTD.  
+
 ### Canais - Esforços de Mídia (comparativo trimestre):
+
+OS dados de Canais - Esforços de Mídia são feitos da mesma maneira que Canais - Esforços de Mídia (comparativo com o ano anterior), a única diferença é que olhamos por cada mês e não por YTD.
 
 ### Dispositivos Móveis (comparativo trimestre):
 
@@ -68,6 +81,7 @@ Coloque a converão em *Comércio Eletrônico*.
 
 Nesse slide temos as **sessões** e **receita** por idade e sexo.
 GA: Público > Informações demográficas > Idade  
+  
 Coloque como dimensão secundária *sexo* e ordene as idades da menor para a maior, assim fica mais fácil pegar os dados.  
 Se quiser pode colocar filtro avançado de correspondência exata para pegar os valores de cada sexo separados.  
   

@@ -1,4 +1,4 @@
-# Documento para explicar onde estão os dados vistos no relatório semanal de KitchenAid
+# Documento para explicar onde estão os dados vistos no relatório mensal de KitchenAid
 
 Objetivo: Esse arquivo tem por finalidade documentar onde estão os dados do relatório no GA e explica os dados que são contas.  
   

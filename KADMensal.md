@@ -71,12 +71,31 @@ OS dados de Canais - Esforços de Mídia são feitos da mesma maneira que Canais
 
 ### Dispositivos Móveis (comparativo trimestre):
 
-Nesse slide olhamos dados de **sessões**, **vendas** e **receita** por dispositivo móvel.  
+Nesse slide olhamos dados de **Sessões**, **Vendas** e **Receita** por dispositivo móvel.  
 GA: Público > Dispositivos Móveis > Visão Geral  
 Coloque a converão em *Comércio Eletrônico*.  
   
 ### Jornada de Conversão - Conversões Assistidas:
 
+Nesse slide temos dado de **Vendas** pelo mês atual e passado.  
+Olhamos os dados por **Last Click** e **Assitência**.  
+  
+GA para Last Click: Conversões > Atribuições > Ferramenta de comparação  
+**Mude a conversão (que fica acima do gráfico) para somente TRANSAÇÕES**  
+Olhe *Conversões de Última interação*.  
+Para olhar os dados de Direto, Orgânico e Email, mude para Agrupamento padrão de canais.  
+Para olhar o dado de Referência, mude para Origem/Mídia e filtre por *referral*.  
+Para olhar os dados de Mídia:  
+  
+Adwords: Mude a dimensão principal para *Campanhas de Google Adwords*. Precisa pegar o nome de cada campanha utilizada no mês e olhar seu valor de conversões.  
+Facebook Ads: Mude para Origem/Mídia e some os valores de facebook/cpc e facebook/social.  
+CityAds: Olhe o valor de cityads/cpa.  
+Criteo: Olhe o valor de citreo/cpc.  
+  
+GA para Assistência: Conversões > Funis Multicanal > Conversões assistidas  
+**Mude a conversão (que fica acima do gráfico) para somente TRANSAÇÕES**  
+Os dados são pegos da mesma maneira que em Last Click.  
+  
 ### Visão do Público - Acesso ao Site e Compra:
 
 Nesse slide temos as **sessões** e **receita** por idade e sexo.
@@ -93,3 +112,5 @@ Nesse slide olhamos os 10 estados que possuem maior valor de **vendas**. Temos t
 GA: Público > Geográfico > Local  
 Selecione o pais Brazil e ordene os estados por Transações.  
 Coloque a conversão em *Comércio Eletrônico*.  
+  
+Agora é só escrever os textos de cada slide e as recomendações.

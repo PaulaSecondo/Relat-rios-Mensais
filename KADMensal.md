@@ -40,10 +40,13 @@ O valor de Outros é o canal que foi utilizado por Mídia e não inclui Adwords,
   
 GA para Adwords: Aquisição > Adwords > Contas  
 Olhe o total dos valores  
+  
 GA para Facebook Ads: Aquisição > Todo o tráfego > Origem/Mídia  
 Some os valores de facebook/cpc e facebook/social.  
+  
 GA para CityAds: Aquisição > Todo o tráfego > Origem/Mídia  
 Filtre para pegar os dados de cityads/cpa  
+  
 GA para Criteo: Aquisição > Todo o trafégo > Origem/Mídia  
 Filtre para pegar os dados de criteo/cpc  
   

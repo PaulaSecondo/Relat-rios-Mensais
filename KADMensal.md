@@ -10,8 +10,69 @@ Temos arquivo com extração.
   
 O relatório pode conter partes pontuais, caso achem algum dado interessante de ser mostrado.  
   
+**Vendas são transações.**  
+  
 Dependemos da Mídia para obter alguns dos dados do relatório. São eles: Valores de Investimento, Canais que compõe Mídia e Campanhas de Adwords do mês.  
 Sabemos que o canal Mídia é composto por Adowords, Facebook Ads, Criteo e City Ads. Porém não sabemos qual outro Canal foi utilizado.  
 
-### Slide 5 - Year-to-date e Month-over-month:
+### Year-to-date e Month-over-month:
 
+Nesse slide temos dados de **Investimento**, **Usuários**, **Sesssões**, **Vendas** e **Receita** por YTD e MoM.  
+Dados por YTD são do período de Janeiro do Ano até a data do relatório, enquanto MoM são do mês do relaótio comparado com o mês anterior.  
+A primeira coluna de dados são de YTD, ou seja, são dados de 2017 comparados com 2016.  
+Já a segunda coluna de dados são de MoM, ou seja, são dados do mês atual comparado com o mês anterior.  
+  
+GA para Usuários e Sessões: Público > Visão Geral  
+GA para Vendas e Receita: Conversões > Comércio Eletrônico > Visão Geral  
+
+### Canais (comparativo com o ano anterior):
+
+Nesse slide temos dados de **Sessões**, **Vendas** e **Receita** por YTD.  
+GA: Aquisição > Todo o tráfego > Canais  
+Coloque a conversão em *Comércio Eletrônico*.  
+Para o dado de Mídia, nós temos uma fórmula nesse slide que é **Mídia = Total -Orgânico -Direto -Referência -E-mail**  
+O **Total** da fórmula é o total que aparece em Canais.  
+
+### Canais - Esforços de Mídia (comparativo com o ano anterior):
+
+Nesse slide temos dados de **Investimento**, **Vendas** e **Receita**.  
+O valor de Outros é o canal que foi utilizado por Mídia e não inclui Adwords, Facebook Ads, Criteo ou CityAds.  
+  
+GA para Adwords: Aquisição > Adwords > Contas  
+Olhe o total dos valores  
+GA para Facebook Ads: Aquisição > Todo o tráfego > Origem/Mídia  
+Some os valores de facebook/cpc e facebook/social.  
+GA para CityAds: Aquisição > Todo o tráfego > Origem/Mídia  
+Filtre para pegar os dados de cityads/cpa  
+GA para Criteo: Aquisição > Todo o trafégo > Origem/Mídia  
+Filtre para pegar os dados de criteo/cpc  
+  
+Para ver transações e receita coloque a conversão em *Comércio Eletrônico*.  
+  
+### Canais (comparativo trimestre):
+
+### Canais - Esforços de Mídia (comparativo trimestre):
+
+### Dispositivos Móveis (comparativo trimestre):
+
+Nesse slide olhamos dados de **sessões**, **vendas** e **receita** por dispositivo móvel.  
+GA: Público > Dispositivos Móveis > Visão Geral  
+Coloque a converão em *Comércio Eletrônico*.  
+  
+### Jornada de Conversão - Conversões Assistidas:
+
+### Visão do Público - Acesso ao Site e Compra:
+
+Nesse slide temos as **sessões** e **receita** por idade e sexo.
+GA: Público > Informações demográficas > Idade  
+Coloque como dimensão secundária *sexo* e ordene as idades da menor para a maior, assim fica mais fácil pegar os dados.  
+Se quiser pode colocar filtro avançado de correspondência exata para pegar os valores de cada sexo separados.  
+  
+### Visão do Público - Interesses do Público:
+
+### Visão Geográfica:
+
+Nesse slide olhamos os 10 estados que possuem maior valor de **vendas**. Temos também a **receita** dos estados com maior valor de transações.  
+GA: Público > Geográfico > Local  
+Selecione o pais Brazil e ordene os estados por Transações.  
+Coloque a conversão em *Comércio Eletrônico*.  

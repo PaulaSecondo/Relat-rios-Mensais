@@ -106,6 +106,14 @@ Se quiser pode colocar filtro avançado de correspondência exata para pegar os 
   
 ### Visão do Público - Interesses do Público:
 
+Nesse slide temos dados de **Transação**, **Receita** e **Taxa de conversão** por afinidade de interesse.  
+GA: Público > Interesses > Categorias de afinidade  
+Mude a conversão para *Comércio Eletrônico*.
+  
+Na dimensão princial temos **interesse/afinidade/categoria**.  
+Os dados que nos interessam nesse slide são **interesse/afinidade**, ou seja, não queremos dados que possuem categorias.  
+O melhor para olhar cada dado é filtrar pela afinidade e ignorar os dados com categoria.  
+
 ### Visão Geográfica:
 
 Nesse slide olhamos os 10 estados que possuem maior valor de **vendas**. Temos também a **receita** dos estados com maior valor de transações.  
